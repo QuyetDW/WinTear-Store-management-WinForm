@@ -1,0 +1,14 @@
+D:\.NET C#\DoAnChuyenNghanh1\DoAnChuyenNghanh1\DoAnChuyenNghanh1\bin\Debug\DoAnChuyenNghanh1.exe.config
+D:\.NET C#\DoAnChuyenNghanh1\DoAnChuyenNghanh1\DoAnChuyenNghanh1\bin\Debug\DoAnChuyenNghanh1.exe
+D:\.NET C#\DoAnChuyenNghanh1\DoAnChuyenNghanh1\DoAnChuyenNghanh1\bin\Debug\DoAnChuyenNghanh1.pdb
+D:\.NET C#\DoAnChuyenNghanh1\DoAnChuyenNghanh1\DoAnChuyenNghanh1\obj\Debug\DoAnChuyenNghanh1.csproj.AssemblyReference.cache
+D:\.NET C#\DoAnChuyenNghanh1\DoAnChuyenNghanh1\DoAnChuyenNghanh1\obj\Debug\DoAnChuyenNghanh1.frm_Login.resources
+D:\.NET C#\DoAnChuyenNghanh1\DoAnChuyenNghanh1\DoAnChuyenNghanh1\obj\Debug\DoAnChuyenNghanh1.Properties.Resources.resources
+D:\.NET C#\DoAnChuyenNghanh1\DoAnChuyenNghanh1\DoAnChuyenNghanh1\obj\Debug\DoAnChuyenNghanh1.csproj.GenerateResource.cache
+D:\.NET C#\DoAnChuyenNghanh1\DoAnChuyenNghanh1\DoAnChuyenNghanh1\obj\Debug\DoAnChuyenNghanh1.csproj.CoreCompileInputs.cache
+D:\.NET C#\DoAnChuyenNghanh1\DoAnChuyenNghanh1\DoAnChuyenNghanh1\obj\Debug\DoAnChuyenNghanh1.exe
+D:\.NET C#\DoAnChuyenNghanh1\DoAnChuyenNghanh1\DoAnChuyenNghanh1\obj\Debug\DoAnChuyenNghanh1.pdb
+D:\.NET C#\DoAnChuyenNghanh1\DoAnChuyenNghanh1\DoAnChuyenNghanh1\obj\Debug\DoAnChuyenNghanh1.frm_MainMenu.resources
+D:\.NET C#\DoAnChuyenNghanh1\DoAnChuyenNghanh1\DoAnChuyenNghanh1\obj\Debug\DoAnChuyenNghanh1.frm_Account.resources
+D:\.NET C#\DoAnChuyenNghanh1\DoAnChuyenNghanh1\DoAnChuyenNghanh1\obj\Debug\DoAnChuyenNghanh1.frm_Admin.resources
+D:\.NET C#\DoAnChuyenNghanh1\DoAnChuyenNghanh1\DoAnChuyenNghanh1\obj\Debug\DoAnChuyenNghanh1.Help.resources
